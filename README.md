@@ -32,10 +32,6 @@ To use this code, follow these steps:
    ```bash
    git clone https://github.com/chatzianagnostis/Active-Learning.git
    cd Active-Learning
-1. Create a random subset for validation purposes:
-
-   ```bash 
-   python create_random_subset.py
 
 ## Acknowledgements
 We would like to thank the authors of the referenced paper for their valuable contributions.
